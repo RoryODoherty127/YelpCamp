@@ -1,9 +1,3 @@
-Types of Routes for RESTFUL APPs
+README
 
-Name        url         verb        Desc.
-============================================
-INDEX       /dogs       GET         Display a list of all dogs
-NEW         /dogs/new   GET         Displays the form to make a new dog
-CREATE      /dogs       POST        Add a new dog to the DB
-SHOW        /dogs/id    GET         Shows info about 1 dog
-
+This is an application for people to upload campgrounds and comments. Basic but a good start. 
